@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/pbrain-gomoku-ai.dir/src/main.cpp.o CMakeFiles/pbrain-gomoku-ai.dir/src/PiskvorkLinker.cpp.o  -o pbrain-gomoku-ai 

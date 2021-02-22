@@ -1,0 +1,3 @@
+/home/nathan/delivery/Tek/IA/B-AIA-500-LYN-5-1-gomoku-nathan.di-palma/build/CMakeFiles/rebuild_cache.dir
+/home/nathan/delivery/Tek/IA/B-AIA-500-LYN-5-1-gomoku-nathan.di-palma/build/CMakeFiles/edit_cache.dir
+/home/nathan/delivery/Tek/IA/B-AIA-500-LYN-5-1-gomoku-nathan.di-palma/build/CMakeFiles/pbrain-gomoku-ai.dir
